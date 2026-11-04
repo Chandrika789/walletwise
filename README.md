@@ -1,4 +1,4 @@
-# spendwise1
+# walletwise1
 
 A new Flutter project.
 
