@@ -1,0 +1,2 @@
+# walletwise
+checkes daily expenses 
